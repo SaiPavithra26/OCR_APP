@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743230589742",
+    "project_id": "ocr-app-710d2",
+    "storage_bucket": "ocr-app-710d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743230589742:android:d8624d35727c175d15c8bf",
+        "android_client_info": {
+          "package_name": "com.example.ocr_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhaSkV1R10rPFfKQp30WUw26CAWpbX_zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
