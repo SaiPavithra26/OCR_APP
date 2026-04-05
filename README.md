@@ -1,16 +1,86 @@
-📖 OCR Reader App
+<h1>📖 OCR Reader App for Visually Impaired</h1>
 
-A Flutter-based mobile application that recognizes text from images and reads it aloud to assist visually impaired users.
+<h2>📌 Overview</h2>
 
-🚀 Overview
+<p>
+The <b>OCR Reader App</b> is a mobile application built using 
+<b>Flutter</b> that helps visually impaired users read printed text 
+from books, documents, or papers.
+</p>
 
-The OCR Reader App is built using Flutter and leverages Google ML Kit to detect text from images. The detected text is then converted into speech using Flutter TTS.
+<p>
+Many blind or low-vision individuals find it difficult to access printed 
+materials when digital versions are not available. This application aims 
+to reduce that barrier by allowing users to simply capture an image of a 
+page and have the text automatically recognized and read aloud.
+</p>
 
-This application helps visually impaired users access printed materials by simply capturing an image of a document and listening to the extracted text.
+<p>
+The app uses <b>Optical Character Recognition (OCR)</b> technology through 
+<b>Google ML Kit</b> to detect text in images and then converts the 
+extracted text into speech using <b>Flutter TTS</b>.
+</p>
 
-✨ Features
-📷 Capture images of printed pages
-🔍 Automatic OCR text recognition
-🔊 Text-to-speech output
-📱 Simple and accessible user interface
-⚡ Fast text processing
+<p>
+This makes it possible for users to listen to the content of printed 
+materials even if the document is not available online.
+</p>
+
+<hr>
+
+<h2>🎯 Objective</h2>
+
+<p>
+The main goal of this project is to create an accessible reading tool 
+that allows visually impaired individuals to interact with printed 
+text independently.
+</p>
+
+<p>The application focuses on:</p>
+
+<ul>
+<li>Easy image capture</li>
+<li>Accurate text recognition</li>
+<li>Clear text-to-speech output</li>
+<li>A simple and user-friendly interface</li>
+</ul>
+
+<hr>
+
+<h2>✨ Features</h2>
+
+<ul>
+<li>📷 Capture an image of any printed page</li>
+<li>🔍 Automatic text recognition using OCR</li>
+<li>🔊 Read extracted text aloud</li>
+<li>📱 Simple and accessible interface</li>
+<li>⚡ Fast processing of captured images</li>
+</ul>
+
+<hr>
+
+<h2>🛠️ Technologies Used</h2>
+
+<ul>
+<li><b>Frontend Framework:</b> Flutter</li>
+<li><b>OCR Engine:</b> Google ML Kit</li>
+<li><b>Text-to-Speech:</b> Flutter TTS</li>
+<li><b>Programming Language:</b> Dart</li>
+</ul>
+
+<hr>
+
+<h2>⚙️ How the App Works</h2>
+
+<ol>
+<li>The user opens the application.</li>
+<li>The user captures an image of a printed page using the device camera.</li>
+<li>The captured image is processed using Google ML Kit OCR.</li>
+<li>The detected text is extracted from the image.</li>
+<li>The application converts the text into speech.</li>
+<li>The content of the page is read aloud to the user.</li>
+</ol>
+
+<p>
+This workflow allows users to access printed materials quickly and easily.
+</p>
