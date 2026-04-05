@@ -12,11 +12,11 @@ The OCR Reader App is a mobile application built using Flutter that helps visual
     4.A simple and user-friendly interface
 
 ✨ Features
-    📷 Capture an image of any printed page
-    🔍 Automatic text recognition using OCR
-    🔊 Read extracted text aloud
-    📱 Simple and accessible interface
-    ⚡ Fast processing of captured images
+    -📷 Capture an image of any printed page
+    -🔍 Automatic text recognition using OCR
+    -🔊 Read extracted text aloud
+    -📱 Simple and accessible interface
+    -⚡ Fast processing of captured images
   
 🛠️ Technologies Used
     1.Frontend Framework: Flutter
