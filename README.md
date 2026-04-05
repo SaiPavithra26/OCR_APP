@@ -34,12 +34,12 @@ text independently.
 
 <p>The application focuses on:</p>
 
-<ul>
-<li>1.Easy image capture</li>
-<li>2.Accurate text recognition</li>
-<li>3.Clear text-to-speech output</li>
-<li>4.A simple and user-friendly interface</li>
-</ul>
+<ol>
+<li>Easy image capture</li>
+<li>Accurate text recognition</li>
+<li>Clear text-to-speech output</li>
+<li>A simple and user-friendly interface</li>
+</ol>
 
 
 
@@ -57,22 +57,22 @@ text independently.
 
 <h2>🛠️ Technologies Used</h2>
 
-<ul>
-<li><b>1.Frontend Framework:</b> Flutter</li>
-<li><b>2.OCR Engine:</b> Google ML Kit</li>
-<li><b>3.Text-to-Speech:</b> Flutter TTS</li>
-<li><b>4.Programming Language:</b> Dart</li>
-</ul>
+<ol>
+<li><b>Frontend Framework:</b> Flutter</li>
+<li><b>OCR Engine:</b> Google ML Kit</li>
+<li><b>Text-to-Speech:</b> Flutter TTS</li>
+<li><b>Programming Language:</b> Dart</li>
+</ol>
 
 <h2>⚙️ How the App Works</h2>
 
 <ol>
-<li>1.The user opens the application.</li>
-<li>2.The user captures an image of a printed page using the device camera.</li>
-<li>3.The captured image is processed using Google ML Kit OCR.</li>
-<li>4.The detected text is extracted from the image.</li>
-<li>5.The application converts the text into speech.</li>
-<li>6.The content of the page is read aloud to the user.</li>
+<li>The user opens the application.</li>
+<li>The user captures an image of a printed page using the device camera.</li>
+<li>The captured image is processed using Google ML Kit OCR.</li>
+<li>The detected text is extracted from the image.</li>
+<li>The application converts the text into speech.</li>
+<li>The content of the page is read aloud to the user.</li>
 </ol>
 
 <p>
