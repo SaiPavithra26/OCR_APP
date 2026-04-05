@@ -12,11 +12,7 @@ from books, documents, or papers.
 Many blind or low-vision individuals find it difficult to access printed 
 materials when digital versions are not available. This application aims 
 to reduce that barrier by allowing users to simply capture an image of a 
-page and have the text automatically recognized and read aloud.
-</p>
-
-<p>
-The app uses <b>Optical Character Recognition (OCR)</b> technology through 
+page and have the text automatically recognized and read aloud.The app uses <b>Optical Character Recognition (OCR)</b> technology through 
 <b>Google ML Kit</b> to detect text in images and then converts the 
 extracted text into speech using <b>Flutter TTS</b>.
 </p>
@@ -26,7 +22,7 @@ This makes it possible for users to listen to the content of printed
 materials even if the document is not available online.
 </p>
 
-<hr>
+
 
 <h2>🎯 Objective</h2>
 
@@ -39,13 +35,13 @@ text independently.
 <p>The application focuses on:</p>
 
 <ul>
-<li>Easy image capture</li>
-<li>Accurate text recognition</li>
-<li>Clear text-to-speech output</li>
-<li>A simple and user-friendly interface</li>
+<li>1.Easy image capture</li>
+<li>2.Accurate text recognition</li>
+<li>3.Clear text-to-speech output</li>
+<li>4.A simple and user-friendly interface</li>
 </ul>
 
-<hr>
+
 
 <h2>✨ Features</h2>
 
@@ -57,30 +53,31 @@ text independently.
 <li>⚡ Fast processing of captured images</li>
 </ul>
 
-<hr>
+
 
 <h2>🛠️ Technologies Used</h2>
 
 <ul>
-<li><b>Frontend Framework:</b> Flutter</li>
-<li><b>OCR Engine:</b> Google ML Kit</li>
-<li><b>Text-to-Speech:</b> Flutter TTS</li>
-<li><b>Programming Language:</b> Dart</li>
+<li><b>1.Frontend Framework:</b> Flutter</li>
+<li><b>2.OCR Engine:</b> Google ML Kit</li>
+<li><b>3.Text-to-Speech:</b> Flutter TTS</li>
+<li><b>4.Programming Language:</b> Dart</li>
 </ul>
-
-<hr>
 
 <h2>⚙️ How the App Works</h2>
 
 <ol>
-<li>The user opens the application.</li>
-<li>The user captures an image of a printed page using the device camera.</li>
-<li>The captured image is processed using Google ML Kit OCR.</li>
-<li>The detected text is extracted from the image.</li>
-<li>The application converts the text into speech.</li>
-<li>The content of the page is read aloud to the user.</li>
+<li>1.The user opens the application.</li>
+<li>2.The user captures an image of a printed page using the device camera.</li>
+<li>3.The captured image is processed using Google ML Kit OCR.</li>
+<li>4.The detected text is extracted from the image.</li>
+<li>5.The application converts the text into speech.</li>
+<li>6.The content of the page is read aloud to the user.</li>
 </ol>
 
 <p>
 This workflow allows users to access printed materials quickly and easily.
 </p>
+<h2>DEMO LINK</h2>
+<a href="https://drive.google.com/file/d/1IhlVAcTQWfi10hHy2LM_LM5P_ZFSjsc7/view?usp=drivesdk">OCR APP</a>
+
